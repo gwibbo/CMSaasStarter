@@ -59,7 +59,7 @@
         <div
           class="normal-case menu-title text-xl font-bold text-primary flex flex-row"
         >
-          <a href="/" class="grow">Saas Starter</a>
+          <a href="/" class="grow">Knowscope</a>
           <label for="admin-drawer" class="lg:hidden ml-3"> &#x2715; </label>
         </div>
       </li>
